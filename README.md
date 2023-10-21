@@ -8,5 +8,5 @@
 *Started working on front end.
 
 ##--------------------------------------------------------
-###10/20/2023
+## 10/20/2023
 *Implemented front-end application
