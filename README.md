@@ -10,3 +10,8 @@
 
 ## 10/20/2023
 *Implemented front-end application
+
+## 10/21/2023
+*Bought a domain.\
+*Configured Route 53, Cloud Front and hosted my website to my domain.\
+*Implemented a Lambda function.
