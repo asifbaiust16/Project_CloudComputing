@@ -17,3 +17,6 @@
 *Implemented a Lambda function.
 
 ## 10/21/2023
+* fixed the bugs in front-end
+* implemented CI/CD for automatic deployment
+  
