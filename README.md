@@ -15,3 +15,5 @@
 *Bought a domain.\
 *Configured Route 53, Cloud Front and hosted my website to my domain.\
 *Implemented a Lambda function.
+
+## 10/21/2023
