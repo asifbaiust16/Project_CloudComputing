@@ -21,3 +21,5 @@
 * implemented CI/CD for automatic deployment\
 * created the blog and deployed.
   
+## 10/22/2023
+*provided website info in central excell sheet
