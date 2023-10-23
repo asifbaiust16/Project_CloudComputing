@@ -19,5 +19,5 @@
 ## 10/21/2023
 * fixed the bugs in front-end\
 * implemented CI/CD for automatic deployment\
-* created the blog and deployed
+* created the blog and deployed.
   
