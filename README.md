@@ -23,3 +23,8 @@
   
 ## 10/22/2023
 *provided website info in central excell sheet
+*validated the contact form
+
+## 10/23/2023
+*fixed the front-end bugs.\
+finalized the project.
